@@ -146,6 +146,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="inputAndFind.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Trie.cpp" />
+    <ClCompile Include="TrieNode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inputAndFind.h" />
+    <ClInclude Include="Trie.h" />
+    <ClInclude Include="TrieNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
