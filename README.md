@@ -3,7 +3,8 @@ Programming Exercise
 
 Saar Avraham, ID: 203436639
 
-Semester: A
+Semester: A (2018)
+
 Visual stuidio 2015
 
 The trie structrue:
