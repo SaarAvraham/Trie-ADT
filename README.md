@@ -1,7 +1,7 @@
 Data structures
 Programming Exercise
 
-Saar Avraham, ID: 203436639
+Saar Avraham
 
 Semester: A (2018)
 
