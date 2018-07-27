@@ -10,7 +10,7 @@ Visual stuidio 2015
 Few words about the Trie structrue:
 
 The trie consists of TrieNodes which each of them has a pointer to pointer named "children" (**TrieNode) which will point to
-an array of pointers if it's not a leaf. So Leaf's "children" will be nullptr (no allocation at all). 
+an array of pointers if it's not a leaf. So leaf's "children" will be nullptr (no allocation at all). 
 The number of letter in the alphabet it 26, so each node which is not leaf will contain an array of pointers to TrieNodes with size of 26.
 Of Course, the array size is a constant named "NUM_OF_ABC_LETTERS".
 Of course, TrieNodes have a count integer as well.
