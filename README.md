@@ -7,7 +7,7 @@ Semester: A (2018)
 
 Visual stuidio 2015
 
-The trie structrue:
+Few words about the Trie structrue:
 
 The trie consists of TrieNodes which each of them has a pointer to pointer named "children" (**TrieNode) which will point to
 an array of pointers if it's not a leaf. So Leaf's "children" will be nullptr (no allocation at all). 
